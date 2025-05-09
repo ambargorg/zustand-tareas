@@ -1,0 +1,42 @@
+.cardContainer{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    padding: 15px 45px;
+    background: white;
+    border-radius: 14px;
+    align-items: center;
+    transition: 0.2s ease-in-out;
+}
+.cardContainer:hover{
+    background: #afaeae;
+
+}
+
+.infoContainer{
+    line-height: 30px;
+    width: 80%;
+    height: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.infoContainer>h3{
+    font-size: 30px;
+}
+
+.buttonsContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 20%;
+}
+
+
+.buttonsContainer >button{
+    padding: 12px;
+    background: none;
+    border-radius: 5px;
+    height: 100%;
+    cursor: pointer;
+    width: 50px;
+    align-self: flex-end;
+}

@@ -1,0 +1,28 @@
+{
+  "tareas": [
+    {
+      "id": "1",
+      "titulo": "Ir al medico",
+      "descripcion": "emilio civit 000",
+      "fechaLimite": "2025-05-14"
+    },
+    {
+      "id": "1",
+      "titulo": "Ir al medico",
+      "descripcion": "emilio civit 000",
+      "fechaLimite": "2025-05-12"
+    },
+    {
+      "id": "3",
+      "titulo": "Armar Valija",
+      "descripcion": "remeras, pantalones, buzos, zapatillas.",
+      "fechaLimite": "2025-05-06"
+    },
+    {
+      "id": "Thu May 08 2025",
+      "titulo": "Limpiar",
+      "descripcion": " Cocina, Living, Cuarto",
+      "fechaLimite": "2025-05-09"
+    }
+  ]
+}
